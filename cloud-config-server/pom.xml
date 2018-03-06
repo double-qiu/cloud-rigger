@@ -5,7 +5,7 @@
   <parent>
   		<artifactId>parent</artifactId>
 		<relativePath>../parent</relativePath>
-    	<groupId>com.aido</groupId>
+    	<groupId>com.cloud</groupId>
     	<version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>cloud-config-server</artifactId>
