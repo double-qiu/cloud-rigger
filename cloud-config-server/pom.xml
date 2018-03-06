@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-  		<artifactId>parent</artifactId>
-		<relativePath>../parent</relativePath>
+  		<artifactId>cloud-parent</artifactId>
+		<relativePath>../cloud-parent</relativePath>
     	<groupId>com.cloud</groupId>
     	<version>0.0.1-SNAPSHOT</version>
   </parent>

@@ -10,7 +10,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 
-		<module>parent</module>
+		<module>cloud-parent</module>
 		<module>cloud-config-server</module>
 		<module>cloud-config-repo</module>
 		<module>cloud-eureka-server</module>
