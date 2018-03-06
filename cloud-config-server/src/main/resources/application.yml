@@ -6,4 +6,4 @@ spring:
       server:
         git:
           search-paths: cloud-config-repo
-          uri: https://git.oschina.net/zhou666/spring-cloud-7simple.git
+          uri: https://github.com/double-qiu/cloud-rigger.git
